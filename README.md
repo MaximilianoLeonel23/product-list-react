@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop-preview](./assets/preview.png)
+![desktop-preview](public/assets/screenshots/preview.png)
 
 ### Links
 
