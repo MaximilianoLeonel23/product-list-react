@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	font-family: 'Red Hat Display', sans-serif;
+}
+
+body {
+	@apply bg-rose-50;
+}
